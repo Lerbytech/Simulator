@@ -1,0 +1,12 @@
+c:\users\админ\documents\visual studio 2015\Projects\NeurSim-TM\NeurSim-TM\bin\Debug\NeurSim-TM.exe.config
+c:\users\админ\documents\visual studio 2015\Projects\NeurSim-TM\NeurSim-TM\bin\Debug\NeurSim-TM.exe
+c:\users\админ\documents\visual studio 2015\Projects\NeurSim-TM\NeurSim-TM\bin\Debug\NeurSim-TM.pdb
+c:\users\админ\documents\visual studio 2015\Projects\NeurSim-TM\NeurSim-TM\obj\Debug\NeurSim-TM.csprojResolveAssemblyReference.cache
+c:\users\админ\documents\visual studio 2015\Projects\NeurSim-TM\NeurSim-TM\obj\Debug\NeurSim-TM.exe
+c:\users\админ\documents\visual studio 2015\Projects\NeurSim-TM\NeurSim-TM\obj\Debug\NeurSim-TM.pdb
+C:\Users\Admin\Desktop\NeurSim-TM\NeurSim-TM\bin\Debug\NeurSim-TM.exe.config
+C:\Users\Admin\Desktop\NeurSim-TM\NeurSim-TM\obj\Debug\NeurSim-TM.exe
+C:\Users\Admin\Desktop\NeurSim-TM\NeurSim-TM\obj\Debug\NeurSim-TM.pdb
+C:\Users\Admin\Desktop\NeurSim-TM\NeurSim-TM\obj\Debug\NeurSim-TM.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\NeurSim-TM\NeurSim-TM\bin\Debug\NeurSim-TM.exe
+C:\Users\Admin\Desktop\NeurSim-TM\NeurSim-TM\bin\Debug\NeurSim-TM.pdb
